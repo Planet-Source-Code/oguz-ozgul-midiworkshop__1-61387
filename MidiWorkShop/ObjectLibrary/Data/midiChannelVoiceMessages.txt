@@ -1,0 +1,9 @@
+[ChannelVoiceMessages]
+Note Off                       = 128
+Note On                        = 144
+Polyphonic Key Pressure        = 160
+Control Change                 = 176
+Program Change                 = 192
+Channel Pressure (After Touch) = 208
+Pitch Wheel Change             = 224
+
